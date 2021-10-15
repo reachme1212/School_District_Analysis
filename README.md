@@ -18,7 +18,7 @@ In this analysis we are analysing school performance of 15 high schools in a cer
 
 2.Below data shows that charter school performed better than the district school both in math and reading and overall passing percentage, data also shows that school with less than 2000 students performed better.
 
-3.Here is one intresting data schools with lower range of per student spending  <$584 has better done better performance.
+3.Here is one intresting data, schools with lower range of per student spending (less than $584 )has performed better than high spending schools. 
         
 
 ![ths](resources/THS.PNG)
