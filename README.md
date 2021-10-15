@@ -11,4 +11,26 @@
 
 **Results**
         Thomas High School math and reading scores for 461 students changed to 
-        "Nan". Below are the reulsts
+        "Nan". following are thomas High school results before change % passing math =66.91 , %passing reading =69.66 and Overall passing =65.07, that changed and Below are the results after removing the 461 scores , % passing math =93.2 , %passing reading =97.0 and Overall passing =90.6 the scores improved because we removed 461 from total sample size.
+
+        Below data shows that charter school performed better than the district school both in math and reading and overall passing percentage, data also shows that school with less than 2000 students performed better.
+
+        Here is one intresting data school with lower range of per student spending  <$584 has better Passing Math and reading percentage and better overall passing percentage
+        
+![ths](resources/THS.PNG)
+
+![School District performance ](resources/districtsummary.PNG)
+
+![Individual school performance math  ](resources/Mathallschool.PNG)
+
+![Individual school performance read  ](resources/readallschool.PNG)
+
+![Top 5 High school  ](resources/top5.PNG)
+
+![bottom 5 High school  ](resources/bottom5.PNG)
+
+![school size  ](resources/sizesummary.PNG)
+
+![school spending  ](resources/spending.PNG)
+
+![school type  ](resources/schooltype.PNG)
