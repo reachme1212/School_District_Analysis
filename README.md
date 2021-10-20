@@ -2,7 +2,7 @@
 
 **Overview of the school district analysis:**
     
-In this analysis we are analysing school performance of 15 high schools in a certain school district in colorado, we received information that file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. So my task is to filter 9th graders from Thomas High School and make their math and reading scores to "Nan" and continue analysing school performance based on following metrics
+I am analysing school performance of 15 high schools in a certain school district in colorado, we received information that file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. So my task is to filter 9th graders from Thomas High School and make their math and reading scores to "Nan" and continue analysing school performance based on following metrics
             
         1.School District performance 
         2.Individual school performance 
